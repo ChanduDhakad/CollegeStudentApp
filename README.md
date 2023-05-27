@@ -54,6 +54,7 @@ spring.datasource.password=root
 
 ```
 
+
 # API Root Endpoint
 ```
 https://localhost:8080/
